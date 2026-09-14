@@ -3,9 +3,6 @@
 </p>
 <h1 align="center">🍂Autumn Shroud🍁</h1>
 Videogame built using Godot Engine in early develompent phases. Expected launch in 2028 <img src="https://github.com/gotiafnk/AutumnShroud/blob/main/Assets/caminar4.gif"/>
-<p align="center">
-  <img src="https://github.com/gotiafnk/AutumnShroud/blob/main/Sprites/hoja.png"/>
-</p>
 
 <!--
 https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783
